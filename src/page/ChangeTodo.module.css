@@ -1,0 +1,11 @@
+.container{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin: 20px;
+    width: 50%;
+    margin: 0 auto;
+}
+.container input{
+    padding: 9px;
+}
